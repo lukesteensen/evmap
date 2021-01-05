@@ -233,7 +233,7 @@
     missing_docs,
     rust_2018_idioms,
     missing_debug_implementations,
-    intra_doc_link_resolution_failure
+    broken_intra_doc_links
 )]
 #![allow(clippy::type_complexity)]
 
